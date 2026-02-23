@@ -1,8 +1,8 @@
-# Pricing Hypotheses & Service Tiers
+# Pricing & Services
 
-## Package Hypotheses
+## Core Service: Vehicle Inspection
+There is one base inspection service.
 
-### 1. Base Inspection (Core Service)
 - **Focus:** Technical condition assessment and bodywork.
 - **Includes:** 
     - Visual inspection.
@@ -11,17 +11,12 @@
 - **Price:** **300€**.
 - **Best for:** Most private and dealer purchases.
 
-### 2. Premium / "The Concierge"
-- **Focus:** High-end cars and remote peace of mind.
-- **Includes:** Base Inspection + OBD Scanner (if allowed by seller), test drive (as passenger or driver), interior condition check, identification number (VIN) check.
-- **Price Range:** 450€ – 600€.
-- **Best for:** Luxury cars, sports cars, or classic cars.
+## Additional Services (Add-ons)
 
-## Add-ons (Upsells)
-
-- **Price Negotiation (€100 or % of saving):** Expert negotiates with the seller on behalf of the client based on found defects.
-- **Urgent Inspection (+€100):** Guaranteed inspection within 24 hours (SLA reduction).
-- **Legal/History Check (€50):** Database check for accidents, theft, and mileage history (CarVertical/Autovcheck integration).
+- **Logistics & Delivery:** Coordination and delivery of the vehicle.
+- **VIN & History Check:** Verification of the vehicle via databases (accidents, theft, mileage history).
+- **Price Negotiation:** Expert negotiates with the seller on behalf of the client based on found defects.
+- **Urgent Inspection:** Guaranteed inspection within a shorter timeframe.
 
 ## Important Notes & Caveats
 - **Travel Costs:** 0.3€/km for travel distances exceeding 30km.
